@@ -1,27 +1,25 @@
 ![alt text](https://iedc.sjcetpalai.ac.in/top20/banner.jpg)
 
-# The Top 20 Coders competition 
-it is a platform for all tech enthusiasts to showcase their coding skills and problem-solving abilities. The competition is designed to challenge participants to solve real-world problems and develop innovative solutions.
+# The Top 20 Coders competition
+ 
+TOP 20 CODERS is a wonderful platform for tech enthusiasts to shine a spotlight on their coding skills and problem-solving abilities, to prove that they deserve to be among the best that our college has to offer.
 
-Participants will have the opportunity to work on a variety of coding challenges and demonstrate their creativity and technical expertise.
-The competition is open to all students of SJCET Palai, and participants will have the chance to win exciting prizes and recognition for their coding skills.
+Open to all SJCET Palai students, this is designed as a multi-tier competition that leads up to the final showdown, a super cool hackathon.
 
-So, if you are passionate about coding and looking for a platform to showcase your talent, then the Top 20 Coders competition is the perfect opportunity for you!
-Join us and be a part of this exciting coding competition!
+This event has no losers. As participants, you don't lose anything; at the very least, you'll get a chance to network and meet a lot of talented, passionate, and like-minded people.
 
+SO WHAT ARE YOU WAITING FOR? GET YOUR ENERGY DRINK OF CHOICE READY AND CODE AWAY!
 ## Competiton Workflow
 
-1. Read Guidelines & Join mulearn
-> To participate in the Coders Competiton, the first step is to read the guidelines. And create an account on the official [mulearn website](mulearn.org).
+1. Read the Guidelines 
+> To participate in the Coders Competiton, the first step is to read the guidelines carefully . 
 
 
 2. Join the Channel/Group
-> Join our [whatsapp group](https://chat.whatsapp.com/HinECFolAyD40QDupXETX4) for up-to-date notifications and join our [discord channel](https://discord.gg/eNaSZWY3) for competitions and ranking. And make sure to invite all your coding friends.
+> Join our [whatsapp group](https://chat.whatsapp.com/HinECFolAyD40QDupXETX4) for up-to-date notifications .
 
-3. Register
-> To embark on the journey toward victory, the second step is to [register](https://iedc.sjcetpalai.ac.in/top20/). Try to use sjcet college email id for registration and mulearn.org account.
 
-4. Let get started ⚡ 
+3. Let get started ⚡ 
 > After completing the above steps, create a Pull Request to this Github Repo with your details. Follow the below steps to create a Pull Request.
 
 ## How to create a Pull Request
@@ -33,6 +31,8 @@ Join us and be a part of this exciting coding competition!
 ```bash
 git clone https://github.com/<your-username>/Top20Coders.git
 ```
+(obviously install git first)
+
 3. Create a new Readme file inside `/participants` folder with your details. You can use the `participants.md` file as a template.
 4. Add your details in the Readme file.
 5. Add the Readme file to the staging area & commit the changes.
@@ -41,4 +41,6 @@ git clone https://github.com/<your-username>/Top20Coders.git
 8. Wait for the PR to be reviewed and merged.
 
 > Note: If you don't understand the above steps, you don't deserve to be a coder. Git & Github is a must-have skill for every coder. So, learn it now.
+
+>join our [discord channel] for competitions and ranking which will be updated shortly . And make sure to invite all your coding friends.
 
