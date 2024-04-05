@@ -7,8 +7,11 @@ I am Abin Thomas, a passionate coder from Palai currently pursuing a Computer Sc
 ### Competitive Website Profiles
 
 LinkedIn: https://www.linkedin.com/in/abin-thomas-karukappallil-/<br/> 
+
 GitHub:   https://github.com/abin-karukappallil <br/> 
+
 MuLearn:  https://app.mulearn.org/profile/abinthomas-1@mulearn <br/>
+
 LeetCode: https://leetcode.com/Abin_Thomas/
 
 ### Leadership and Influence
