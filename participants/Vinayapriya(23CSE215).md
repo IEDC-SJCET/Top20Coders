@@ -6,7 +6,7 @@ I'm a budding web developer fueled by a passion for creating meaningful online e
 Additionally, my skills extends to server-side scripting with PHP and database management using MySQL, allowing me to design end-to-end solutions.
 
 
-### Competitive Website Profiles
+### Competitive Website Profiles 
 
 Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, LinkedIn, GitHub, Mulearn, or any others you're active on.
 Mulearn: https://app.mulearn.org/profile/vinayapriyacc@mulearn
