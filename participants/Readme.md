@@ -9,9 +9,12 @@ Hey there! I'm Hridya Mathew, a third-year BTech Computer Science student at St.
 ### Competitive Website Profiles
 
 GitHub: https://github.com/hridyamathew
+
 LinkedIn: https://www.linkedin.com/in/hridya-mathew-89688b272/
+
 Mulearn: https://app.mulearn.org/profile/hridyamathew@mulearn
-Kackerrank: https://www.hackerrank.com/profile/hridyamathew848
+
+Hackerrank: https://www.hackerrank.com/profile/hridyamathew848
 
 ---
 
