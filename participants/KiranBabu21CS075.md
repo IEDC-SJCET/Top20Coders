@@ -3,26 +3,11 @@ Kiran Babu
 ## About Me
 
 Im Currently Doing 3rd Year Computer Science and Engineering,I'm a Passionate Web Developer Excel in FrontEnd Development Technologies Like React and Next
+im also familiar with Languages like Python,C and Javascript
 
 ---
 
-### History of Open Source Contributions (optional)
 
-Share details of any open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
----
-
-### History of Community Engagement (optional)
-
-Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
----
-
-### Highly Visible Technical Content (optional)
-
-Highlight any highly visible technical blog posts, articles, or video series you have created.
-
----
 
 ### Highly Used Software Tools and Languages (optional)
 
