@@ -1,4 +1,4 @@
-
+git clone https://github.com/<your-username>/Top20Coders.git
 # Full Name
 Sanjana Joseph
 ## About Me
