@@ -6,29 +6,6 @@ I'm a budding web developer fueled by a passion for creating meaningful online e
 Additionally, my skills extends to server-side scripting with PHP and database management using MySQL, allowing me to design end-to-end solutions.
 
 
-### History of Open Source Contributions (optional)
-
-Share details of any open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
----
-
-### History of Community Engagement (optional)
-
-Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
----
-
-### Highly Visible Technical Content (optional)
-
-Highlight any highly visible technical blog posts, articles, or video series you have created.
-
----
-
-### Highly Used Software Tools and Languages (optional)
-
-If you've developed software tools that are widely used by users (not just contributors), mention them.
-
----
 
 
 ### Competitive Website Profiles 
