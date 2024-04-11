@@ -55,6 +55,6 @@ To become an full stack developer and graduating with a good mark
 
 ### Opinion on Indian Engineering Education and SJCET Palai
 
-Share your opinion on Indian Engineering Education and SJCET Palai. Also, suggest how we can improve it.
+Indian engineering education needs to bridge the gap between academia and industry by focusing more on practical learning and updating the curriculum to include modern languages like Python. SJCET Palai, known for its excellence, can further enhance its educational experience by investing in a vibrant cultural scene alongside its strong academic foundation.
 
 
