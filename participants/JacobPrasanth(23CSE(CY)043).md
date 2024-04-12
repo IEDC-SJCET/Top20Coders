@@ -1,5 +1,6 @@
+# Full Name
 Jacob Prasanth
-
+## About Me
 I'm Pursuing Computer Science Engineering with specialization in Cyber Security at St Joseph's College Of Engineering And Technology, Palai
 
 Experienced Graphic Designer with a demonstrated history of working in the graphic design industry. Skilled in Photography, Graphics, Logo Design, Final Cut Pro, and Video. Strong arts and design professional graduated from Marygiri Senior Secondary School.
