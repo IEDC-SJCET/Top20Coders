@@ -1,3 +1,4 @@
+#Arsha_NM
 My name is ARSHA N M
 Iam from kozhikode,kerala
 Iam currently studying in Artificial intelligence and datascience fron St.joseph's college of engineering and technology palai
@@ -15,7 +16,7 @@ if i get a chance as a lead may in any program or anything else...I will take my
  in my school life,i had got too many chances to lead the events like annual fest, club lead etc.in each chance, i showed my complete strengh successfully
  to make the events interactive and memmorable.
  Iam joined a TOP 20 CODE competetion very exitedly because I believe that, that through participation,it will increase my programming skill even a little more.
- and a chance to learn someting new.more idea about github, an experience...
+ and a chance to learn someting new.more idea about github, an experience....
  I have a lot of shot-term and long term goals to acheive...
 my short-term goal is to catchup more and more skills for my future career.
 my long-term goal is to become a part of a multinational company.
