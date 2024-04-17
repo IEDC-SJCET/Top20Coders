@@ -1,8 +1,12 @@
-#Ajay Varma J
+# Ajay Varma J
+
+---
 
 ## about me 
 Hi,
     My name is Ajay varma, i am 2nd year btech cybersecurity student at sjcet. i am designer and coder, mostly web designing and development. 
+
+---
     
 ### Highly used software tools and languages 
 
@@ -21,12 +25,18 @@ Team Building and Collaboration: Example: You initiated cross-departmental colla
 
 Decision-Making and Problem-Solving: Example: Faced with a complex problem, you facilitated brainstorming sessions and conducted thorough analyses to evaluate various solutions.
 
+---
+
 ### As a top 20 member
 i want to upskill my self to be able to problem solve and be a good coder. i believe this coding challenge would be a great experience for my career and i intend to learn from it.
+
+---
 
 ### career plan
 
 i want to be a full stack web developer.
+
+---
 
 ### Opinion on Indian Engineering Education and SJCET Palai
 
