@@ -1,12 +1,15 @@
-###Ajay Varma J
+#Ajay Varma J
 
-### about me 
+## about me 
 Hi,
     My name is Ajay varma, i am 2nd year btech cybersecurity student at sjcet. i am designer and coder, mostly web designing and development. 
     
-###Highly used software tools and languages 
+### Highly used software tools and languages 
+
 html,css,javascript,python,react,bootstrap/tailwind for development
 figma,photoshop for designing
+
+---
 
 ### Leadershop and influence
 
