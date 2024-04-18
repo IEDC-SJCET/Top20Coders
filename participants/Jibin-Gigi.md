@@ -7,7 +7,7 @@ As a Computer Science and Engineering student, I am deeply passionate about self
 
 ### History of Community Engagement 
 
-    Currently I am 
+Currently I am 
 1.Chief Skills Officer @ Sjcet Palai
 2.Central Zone Lead @ Gtech Mulearn
 3.Campus Intern @ Gtech Mulearn
